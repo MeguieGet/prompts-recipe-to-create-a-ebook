@@ -14,9 +14,16 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de Compliance, o ebook é do nicho de tecnologia e o subnicho é de conformidade, o título deve ser simples e curto, e tenha uma temática de atletismo no título, me liste 5 variações de títulos |
-| conteúdo | Faça um texto para ebook, com foco em Compliance, listando os principios básicos de compliance {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de conformidade em contextos reais, sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de Compliance, o ebook é do nicho de governança e o subnicho é de conformidade, o título deve ser atrativo e curto, e tenha uma temática de atletismo no título, me liste 5 variações de títulos criativos atrativo aos empregados da empresa |
+| conteúdo | Faça um texto para ebook , com foco em Compliance, listando os princípios básicos de compliance {REGRAS} {REGRAS NEGATIVAS}  Explique sempre de uma maneira simples, Deixe o texto enxuto, Sempre traga exemplos de conformidade em contextos reais, sempre deixe um título sugestivo por tópico  
+{REGRAS}
+•	O TEXTO tem que ser enxuto e simples
+{REGRAS NEGATIVAS}
+•	Não quero que o texto tenha palavras em inglês |
 
+
+Titulo escolhido: "Governança em Ação: Juntos na Linha de Chegada"
+- Mesclei duas opções apresentadas: "Governança em Ação: Vença o Desafio da Conformidade" e "Maratona da Conformidade: Juntos na Linha de Chegada"
 
 Midjourney：
 

@@ -14,7 +14,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de Compliance, o ebook é do nicho de tecnologia e o subnicho é de conformidade, o título deve ser épico e curto, e tenha uma temática de atletismo no título, me liste 5 variações de títulos |
+|  título  | Crie um título de um ebook sobre o tema de Compliance, o ebook é do nicho de tecnologia e o subnicho é de conformidade, o título deve ser simples e curto, e tenha uma temática de atletismo no título, me liste 5 variações de títulos |
 | conteúdo | Faça um texto para ebook, com foco em Compliance, listando os principios básicos de compliance {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de conformidade em contextos reais, sempre deixe um título sugestivo por tópico |
 
 
@@ -22,7 +22,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A gold olympic medal, with a description "first in Complaince", pixel art style --v 5.1 |
+| título | A gold olympic medal, with a description "first in Compliance", pixel art style --v 5.1 |
 
 ## ✨ Features
 

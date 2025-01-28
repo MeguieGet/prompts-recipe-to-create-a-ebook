@@ -25,7 +25,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A gold olympic medal, with a description "First in Compliance", pixel art style --v 5.1 |
+| título | a marathon man running, side view, long exposure waveform trails from him --v 5.1 |
 
 ## ✨ Features
 

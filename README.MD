@@ -22,7 +22,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A gold olympic medal, with a description "first in Compliance", pixel art style --v 5.1 |
+| título | A gold olympic medal, with a description "First in Compliance", pixel art style --v 5.1 |
 
 ## ✨ Features
 
